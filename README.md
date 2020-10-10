@@ -28,3 +28,14 @@ The game is developed by Isaac Spanier - [YodaSpock](https://github.com/YodaSpoc
 * Unable to be Couped
 * 
 * 4 Hogwarts + Muggles (With Gun)
+* 
+* Shift Mechanic? 
+
+
+# Other Ideas
+* Voice Acting
+* Check on other people's cards
+* 12 people playable
+
+* House with Specific People and 
+
