@@ -22,3 +22,9 @@ The game is developed by Isaac Spanier - [YodaSpock](https://github.com/YodaSpoc
 
 * Develop Characters
 * Develop App Name
+
+# Character Ideas
+
+* Unable to be Couped
+* 
+* 4 Hogwarts + Muggles (With Gun)
