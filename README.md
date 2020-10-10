@@ -4,4 +4,38 @@ Coup is a mobile cooperative strategy game based on the popular board game Coup.
 
 The game is developed by Isaac Spanier - [YodaSpock](https://github.com/YodaSpock) and Daniel Schubert - [danielisgr8](https://github.com/danielisgr8) 
 
-The rules to base game of Coup can be found [here](https://www.ultraboardgames.com/coup/game-rules.php)
+**[Coup Official Rules](https://www.ultraboardgames.com/coup/game-rules.php)**
+
+# Todo
+
+### Daniel 
+
+* Figure out what to use for backend
+* Add more Todos
+
+### Isaac
+
+* Figure out what to use for frontend
+* Add more Todos
+
+### Both
+
+* Develop Characters
+* Develop App Name
+
+# Character Ideas
+
+* Unable to be Couped
+* 
+* 4 Hogwarts + Muggles (With Gun)
+* 
+* Shift Mechanic? 
+
+
+# Other Ideas
+* Voice Acting
+* Check on other people's cards
+* 12 people playable
+
+* House with Specific People and 
+
