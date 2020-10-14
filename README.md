@@ -1,12 +1,12 @@
-# Coup
+# We Are Wizards
 
-Coup is a mobile cooperative strategy game based on the popular board game Coup. 
+We Are Wizards is a mobile cooperative strategy game based on the popular board game Coup. 
 
 The game is developed by Isaac Spanier - [YodaSpock](https://github.com/YodaSpock) and Daniel Schubert - [danielisgr8](https://github.com/danielisgr8) 
 
 **[Coup Official Rules](https://www.ultraboardgames.com/coup/game-rules.php)**
 
-# Todo
+## Todo
 
 ### Daniel 
 
@@ -23,19 +23,30 @@ The game is developed by Isaac Spanier - [YodaSpock](https://github.com/YodaSpoc
 * Develop Characters
 * Develop App Name
 
-# Character Ideas
+## Character Ideas
 
 * Unable to be Couped
-* 
 * 4 Hogwarts + Muggles (With Gun)
-* 
 * Shift Mechanic? 
 
 
-# Other Ideas
-* Voice Acting
+## Other Ideas
+* Voice acting (somehow)
 * Check on other people's cards
 * 12 people playable
+* House with specific people (either Harry Potter characters or our actual friends)
 
-* House with Specific People and 
-
+## House Designations
+| Person   | House      |
+|----------|------------|
+| Annalise | Gryffindor |
+| Daniel   | Hufflepuff |
+| Isaac    | Hufflepuff |
+| Cat      | Hufflepuff |
+| Hannah   | Hufflepuff |
+| Lucas    | Slytherin  |
+| Sydney   | Ravenclaw  |
+| Josh     | Ravenclaw  |
+| Rachel   | Ravenclaw  |
+| Jake     |
+| Austin   |
