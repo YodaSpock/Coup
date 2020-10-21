@@ -5,7 +5,8 @@ We Are Wizards is a mobile cooperative strategy game based on the popular board 
 The game is developed by Isaac Spanier - [YodaSpock](https://github.com/YodaSpock) and Daniel Schubert - [danielisgr8](https://github.com/danielisgr8) 
 
 **[Coup Official Rules](https://www.ultraboardgames.com/coup/game-rules.php)**  
-**[Planning Doc](https://docs.google.com/document/d/1bZ2ua3aZfH1UYu52QdHq1V4e5PhdcHRr_2CFRyKV3bo/edit)**
+**[Planning Doc](https://docs.google.com/document/d/1bZ2ua3aZfH1UYu52QdHq1V4e5PhdcHRr_2CFRyKV3bo/edit)**  
+**[UI Doc](https://lucid.app/lucidchart/33acfc78-3f3c-42ea-84fb-ff2a01d33ba2/edit?beaconFlowId=46BBFA69DEE97BC8)**
 
 ## Todo
 
