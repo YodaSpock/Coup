@@ -4,7 +4,8 @@ We Are Wizards is a mobile cooperative strategy game based on the popular board 
 
 The game is developed by Isaac Spanier - [YodaSpock](https://github.com/YodaSpock) and Daniel Schubert - [danielisgr8](https://github.com/danielisgr8) 
 
-**[Coup Official Rules](https://www.ultraboardgames.com/coup/game-rules.php)**
+**[Coup Official Rules](https://www.ultraboardgames.com/coup/game-rules.php)**  
+**[Planning Doc](https://docs.google.com/document/d/1bZ2ua3aZfH1UYu52QdHq1V4e5PhdcHRr_2CFRyKV3bo/edit)**
 
 ## Todo
 
@@ -40,6 +41,7 @@ The game is developed by Isaac Spanier - [YodaSpock](https://github.com/YodaSpoc
 | Person   | House      |
 |----------|------------|
 | Annalise | Gryffindor |
+| Austin   | Gryffindor |
 | Daniel   | Hufflepuff |
 | Isaac    | Hufflepuff |
 | Cat      | Hufflepuff |
@@ -48,5 +50,4 @@ The game is developed by Isaac Spanier - [YodaSpock](https://github.com/YodaSpoc
 | Sydney   | Ravenclaw  |
 | Josh     | Ravenclaw  |
 | Rachel   | Ravenclaw  |
-| Jake     |
-| Austin   |
+| Jake     | Ravenclaw  |
