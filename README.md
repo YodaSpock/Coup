@@ -18,6 +18,7 @@ The game is developed by Isaac Spanier - [YodaSpock](https://github.com/YodaSpoc
 ### Isaac
 
 * Figure out what to use for frontend
+* Learn more about React native 
 * Add more Todos
 
 ### Both
